@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a141c9c8-3934-402e-abf0-4a9e257e1edd}">
+		<property name="assetPath">
+			<value>Energy_Bling.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.39918367346938777</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22aaea38-54a1-4764-ab86-bb9ef9e023a1}</destination>
+		</relationship>
+	</object>
+</objects>

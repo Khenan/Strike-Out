@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8120f266-3517-4de6-9867-325809934ffa}">
+		<property name="assetPath">
+			<value>Cybernetic_Mini_Gun_4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0227437641723358</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22aaea38-54a1-4764-ab86-bb9ef9e023a1}</destination>
+		</relationship>
+	</object>
+</objects>

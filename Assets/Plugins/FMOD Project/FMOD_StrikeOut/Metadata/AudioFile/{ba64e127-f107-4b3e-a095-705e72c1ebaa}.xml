@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ba64e127-f107-4b3e-a095-705e72c1ebaa}">
+		<property name="assetPath">
+			<value>Change Weapon.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2371655328798186</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22aaea38-54a1-4764-ab86-bb9ef9e023a1}</destination>
+		</relationship>
+	</object>
+</objects>

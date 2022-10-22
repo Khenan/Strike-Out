@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c3f525d6-3564-4029-8c2b-0f5a108b88cb}">
+		<property name="assetPath">
+			<value>Game_Big_Gore_Rip_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.4095918367346938</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22aaea38-54a1-4764-ab86-bb9ef9e023a1}</destination>
+		</relationship>
+	</object>
+</objects>
